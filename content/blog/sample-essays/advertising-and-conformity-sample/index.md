@@ -2,15 +2,19 @@
 title: "Advertising and Conformity - Sample"
 summary: Advertising discourages people from being different individuals by making us all want to do the same and look the same. To what extent do you agree or disagree?
 description: Advertising discourages people from being different individuals by making us all want to do the same and look the same. To what extent do you agree or disagree?
+showTableOfContents: false
+layoutBackgroundHeaderSpace: false
 cover:
-    image: https://images.unsplash.com/photo-1547452912-b43d586aed93?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80
+    image: feature.jpg
 date: 2023-02-09T17:36:50+07:00
 categories:
     - english
     - writing
     - sample
 ---
-
+{{< lead >}}
+Advertising discourages people from being different individuals by making us all want to do the same and look the same. To what extent do you agree or disagree?
+{{< /lead >}}
 Nowadays, people are <mark>bombarded with</mark> advertisements everywhere - from ads on their way to work to ads on their phones and computers. Meanwhile, there is a <mark>sentiment</mark> that the overwhelming number of promotions is eroding our individualism, making us buy, use, and wear the same things. This is a sentiment that I generally agree with.
 
 There are a handful of brands that dominate their respective industries and thereby possess an <mark>outsized</mark> amount of <mark>marketing power</mark>, leaving consumers with fewer choices. The advertisements from <mark>industry titans</mark> such as Nike and Adidas for athletic shoes, Coca-Cola and Pepsi for carbonated drinks, and Gucci, Channel and a few others for <mark>luxury consumer goods</mark> are often accompanied by much higher <mark>brand value and recognition</mark>, wider appeal and reach, and stimulates more purchases from consumers. Hence, for these highly centralized industries, customers mostly purchase and use the same set of apparels advertised to them <mark>via various channels</mark>. These clothes and gears are mainly designed to fit as many people as possible, rather than products that are more specifically <mark>geared towards</mark> different individuals. This <mark>conformity</mark> of purchasing habit is <mark>eating away</mark> at people's uniqueness and individuality.

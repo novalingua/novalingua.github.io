@@ -3,14 +3,17 @@ title: Obsidian flashcards
 description: Sử dụng ObsidianMD để tạo flash cards.
 summary: Sử dụng ObsidianMD để tạo flash cards.
 date: 2023-01-19
-slug: obsidian-flashcards
+series: ["Obsidian"]
+series_order: 1
 cover:
-    image: https://images.unsplash.com/photo-1616628188859-7a11abb6fcc9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDF8fGZsYXNoJTIwY2FyZHxlbnwwfHx8fDE2NzM5OTQ4MjY&ixlib=rb-4.0.3&q=80&w=2000
+    image: feature.jpeg
 categories:
     - guides
     - obsidian
 ---
-
+{{< lead >}}
+Sử dụng ObsidianMD để tạo flash cards.
+{{< /lead >}}
 Có nhiều các ứng dụng khác chuyên dùng cho phương pháp lặp lại ngắt quãng như Anki, Mochi, v.v. Tuy nhiên mình chọn Obsidian vì 4 lí do:
 
 1. Obsidian có app cho **tất cả hệ điều hành thông dụng**: Windows, MacOS, iOS, Android, thậm chí cả Linux. Tất cả phiên bản này đều **free**.
@@ -26,11 +29,11 @@ Cách tạo flashcards trong Obsidian:
 
 1. Mở Obsidian lên, vào `Settings` (biểu tượng dưới cùng bên tay trái), chọn `Community plugins` > `Turn on community plugins` (nếu cần) > `Browse`.
 
-<p align=center><img src="https://cdn.phuctran.cloud/obsidian-community.png"></p>
+<p align=center><img src="https://neolingo.b-cdn.net/obsidian-flashcards/obsidian-community.png"></p>
 
 2. Tìm `Spaced Repetition`, chọn `Install` sau đó `Enable`.
 
-<p align=center><img src="https://cdn.phuctran.cloud/spaced-repetition.png"></p>
+<p align=center><img src="https://neolingo.b-cdn.net/obsidian-flashcards/spaced-repetition.png"></p>
 
 ## Tạo flashcards
 
@@ -38,7 +41,7 @@ Cách tạo flashcards trong Obsidian:
 2. Mỗi cặp từ vựng + định nghĩa các bạn gõ lại thành `từ vựng:::định nghĩa`. Khi sử dụng 2 dấu hai chấm (`::`) thì app sẽ chỉ hỏi bạn từ vựng, bạn trả lời định nghĩa. Sử dụng 3 dấu hai chấm (`:::`) thì app sẽ hỏi bạn từ vựng hoặc định nghĩa và bạn trả lời cái còn lại.
 3. Nên tạo note theo tuần. (VD: mỗi ngày học 20 từ thì tạo luôn 1 note 140 từ của tuần đó)
 
-<p align=center><img src="https://cdn.phuctran.cloud/obsidian-flashcards.png"></p>
+<p align=center><img src="https://neolingo.b-cdn.net/obsidian-flashcards/obsidian-flashcards.png"></p>
 
 ## Sử dụng flashcards để ôn từ vựng
 
@@ -47,15 +50,15 @@ Cách tạo flashcards trong Obsidian:
 	1. Chọn biểu tượng 3 gạch ngang ở góc dưới cùng bên tay phải
 	2. Chọn `Review flashcards`
 
-<p align=center><img src="https://cdn.phuctran.cloud/review-flashcards.png"></p>
+<p align=center><img src="https://neolingo.b-cdn.net/obsidian-flashcards/review-flashcards.png"></p>
 
 2. Chọn `flashcards` để ôn lại từ vựng trong tất cả note hoặc bấm mũi tên và chọn `tên-note` để ôn lại từ vựng trong note đó.
 
-<p align=center><img src="https://cdn.phuctran.cloud/flashcards-decks.png"></p>
+<p align=center><img src="https://neolingo.b-cdn.net/obsidian-flashcards/flashcards-decks.png"></p>
 
 3. Ở mỗi từ vựng/định nghĩa, các bạn cố gắng nhớ từ/định nghĩa tương ứng là gì, sau đó nhấn Show Answer (hoặc spacebar trên bàn phím).
 
-<p align=center><img src="https://cdn.phuctran.cloud/flashcard-question.png"></p>
+<p align=center><img src="https://neolingo.b-cdn.net/obsidian-flashcards/flashcard-question.png"></p>
 
 4. Chọn theo mức độ khó của từ: 
 	- Đỏ - Hard: khó nhớ hoặc không nhớ. Từ/định nghĩa sẽ được hỏi lại sau 1 ngày.

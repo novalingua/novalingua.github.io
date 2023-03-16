@@ -5,38 +5,18 @@ summary: Bạn không biết nên học tiếng Anh từ đâu?
 date: 2023-01-17
 slug: where-to-start
 cover:
-    image: https://images.unsplash.com/photo-1584907797015-7554cd315667?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDF8fGJlZ2lufGVufDB8fHx8MTY3Mzk5Mzc0Mw&ixlib=rb-4.0.3&q=80&w=2000
+    image: feature.jpeg
 categories:
     - english
+    - basics
 ---
+{{< lead >}}
+Bạn không biết nên học tiếng Anh từ đâu?
+{{< /lead >}}
 
-## Gốc từ
+## Thì & cấu trúc
 
-Morpheme - gốc từ:
-
-- Là tập hợp chữ cái nhỏ nhất có nghĩa riêng biệt liên quan đến từ
-	- VD: univers-<mark>ity</mark> - gốc từ -ity nghĩa là danh từ (noun modifier)
-	- VD: <mark>beau</mark>-<mark>ti</mark>-<mark>ful</mark> (adj)
-		- beau: từ gốc latin = đẹp
-		- ty: gốc từ danh từ
-		- ful: gốc từ tính từ
-	- VD: bio-chemis-try
-		- bio: gốc từ nghĩa sự sống
-		- chem: gốc từ nghĩa hóa học
-		- try: gốc từ nghĩa môn học
-		- => biochemistry: sinh hóa học
-	- VD: tele-vis-ion
-		- tele: từ xa
-		- vis: gốc từ nghĩa liên quan tới nhìn
-		- ion: gốc từ danh từ
-	- VD: telephone, telemarketing, nightvision
-
-Có nhiều gốc từ có nghĩa đơn giản như "biến thành động từ" hay "biến thành danh từ", nhưng cũng có nhiều gốc từ nghĩa phức tại như "hóa (học)" hay "từ xa". Nhìn chung, các gốc từ cần học được phân thành 3 loại:
-1. Các gốc từ biến đổi loại từ. VD: -ty, -al, -ion, v.v.
-2. Các gốc từ Hy Lạp phổ biến. VD: astro, bio, hydro, v.v.
-3. Các gốc từ Latin phổ biến. VD: struct, aqua, cide, v.v.
-
-## Những thì cần học
+### Những thì cần học
 
 - Present Simple
 - Present Continuous
@@ -47,7 +27,7 @@ Có nhiều gốc từ có nghĩa đơn giản như "biến thành động từ"
 - Future Simple
 - Future Continuous
 
-## Cấu trúc cần phải nhớ
+### Cấu trúc cần phải nhớ
 
 - to be + V-ing: cấu trúc tiếp diễn (continuous)
 - to be + V<sub>3</sub>: cấu trúc bị động (passive)
@@ -82,6 +62,34 @@ Mệnh đề **thường** là 1 cụm chủ ngữ + động từ. (S+V).
 Trong một câu phải có ít nhất 1 mệnh đề = 1 chủ ngữ + 1 động từ.
 - Câu có 1 mệnh đề là câu đơn
 - Câu có từ 2 mệnh đề trở lên là câu phức
+
+## Từ vựng
+
+### Từ tố
+
+Morpheme - từ tố:
+
+- Là tập hợp chữ cái nhỏ nhất có nghĩa riêng biệt liên quan đến từ
+	- VD: univers-<mark>ity</mark> - từ tố -ity nghĩa là danh từ (noun modifier)
+	- VD: <mark>beau</mark>-<mark>ti</mark>-<mark>ful</mark> (adj)
+		- beau: từ gốc latin = đẹp
+		- ty: từ tố danh từ
+		- ful: từ tố tính từ
+	- VD: bio-chemis-try
+		- bio: từ tố nghĩa sự sống
+		- chem: từ tố nghĩa hóa học
+		- try: từ tố nghĩa môn học
+		- => biochemistry: sinh hóa học
+	- VD: tele-vis-ion
+		- tele: từ xa
+		- vis: từ tố nghĩa liên quan tới nhìn
+		- ion: từ tố danh từ
+	- VD: telephone, telemarketing, nightvision
+
+Có nhiều từ tố có nghĩa đơn giản như "biến thành động từ" hay "biến thành danh từ", nhưng cũng có nhiều từ tố nghĩa phức tại như "hóa (học)" hay "từ xa". Nhìn chung, các từ tố cần học được phân thành 3 loại:
+1. Các từ tố biến đổi loại từ. VD: -ty, -al, -ion, v.v.
+2. Các từ tố Hy Lạp phổ biến. VD: astro, bio, hydro, v.v.
+3. Các từ tố Latin phổ biến. VD: struct, aqua, cide, v.v.
 
 ### Từ loại
 

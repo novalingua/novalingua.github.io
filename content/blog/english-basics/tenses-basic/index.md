@@ -9,7 +9,11 @@ cover:
 categories:
     - english
     - grammar
+    - basics
 ---
+{{< lead >}}
+Giải thích chung về các thì trong tiếng Anh.
+{{< /lead >}}
 
 ## Tense - thì
 

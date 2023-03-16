@@ -10,7 +10,9 @@ categories:
     - writing
     - sample
 ---
-
+{{< lead >}}
+Some people believe that in order to improve educational quality, we should encourage students to make comments or even criticism on their teachers, but others think it will lead to the loss of respect and discipline in the classroom. Discuss both views and give your own opinion.
+{{< /lead >}}
 Many people think that the best way for teachers to improve is to receive <mark>constructive comments or criticism</mark>. However, there exists a concern that it would result in a decrease in respect and discipline in schools. In my opinion, although this is a valid concern, the overall effect would be <mark>auspicious</mark>.
 
 The <mark>student-teacher dynamic</mark> is a <mark>complex</mark> relationship, and <mark>opening the way for</mark> new interactions may <mark>produce undesired effects</mark>. This is particularly true for Eastern or more conservative countries, where there is more of an emphasis on the "respect your elders" culture. <mark>Due to the fact that</mark> educators and pupils in these cultures do not normally see themselves as equals, the criticisms received by teachers may be seen as disrespectful, leading to the breakdown of the natural order within a classroom. Nevertheless, these downsides can be minimized by setting <mark>clear boundaries</mark> on what is considered acceptable, reasonable, and constructive commentary. On the contrary, however, the avoidance of <mark>critiques</mark> means that any valid concerns or opinions that students are inevitably overlooked.

@@ -7,10 +7,12 @@ categories:
     - personal
     - tech
 cover:
-    image: https://images.unsplash.com/photo-1499750310107-5fef28a66643?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80
+    image: feature.webp
 draft: false
 ---
-
+{{< lead >}}
+How and why I started my own blog, static sites, and free hosting.
+{{< /lead >}}
 ## Why a blog at all
 
 I am *always* running into things that I want to learn. Sometimes, I learn things because I have an idea that I want implemented. Other times, I come across something that, frankly, just look fun. This is how I end up with a media server that is auto-updated with new movies and series, a personal music server that lets me listen lossless quality audio on my phone and computer, a Moodle instance that I use to distribute online exercises and tests to my students, my own cloud storage, and, well, this blog.
@@ -27,7 +29,7 @@ So, this is how I did it, through (a lot of) trials and errors.
 
 ### Wordpress
 
-![Wordpress](wordpress.png#center)
+![Wordpress](wordpress.webp#center)
 
 When I first had the idea of a blog, the first tool I tried was Wordpress. After all, it is the most popular CMS on the planet, with about 43% of **all websites on the internet** being built on Wordpress. Let that sink in for a moment - almost ***half*** of all the sites on the internet is built using this single tool. That alone should give you an idea about the capabilities and extendability of Wordpress.
 
@@ -39,7 +41,7 @@ Overall, Wordpress is a powerful tool but for simple blogs, it's slow, bloated, 
 
 ### Ghost
 
-![Ghost CMS](ghost.png#center)
+![Ghost CMS](ghost.webp#center)
 
 Ghost is another popular CMS. It's fast, simple, and intuitive. If you put a caching layer on top of it, like a CDN for instance, it should be quick enough for most people.
 

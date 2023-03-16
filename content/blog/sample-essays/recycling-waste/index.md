@@ -11,7 +11,9 @@ categories:
     - writing
     - sample
 ---
-
+{{< lead >}}
+In some countries, there is not enough recycling of waste materials (e.g. paper, glass and cans). What are the reasons and solutions? (Environment)
+{{< /lead >}}
 In the <mark>post-modern era</mark>, the effects of environmental changes have become a pressing issue. One of the ways people can <mark>minimize</mark> their environmental impacts is through recycling. Sadly, in many nations and regions around the world, waste recycling is often overlooked.
 
 A large number of people do not take recycling seriously enough. Hundreds of thousands of tons of garbage head to landfills and incinerators every day, contributing greatly to air, water, and soil degradation. Many experts <mark>see this as</mark> an issue of awareness: the majority of these people are simply not <mark>cognizant of</mark> the damage they cause through their lack of recycling. Many others are somewhat <mark>conscious of</mark> the harmful effects of their actions, but fail to see <mark>the full picture</mark> and do not see the value in recycling or reusing materials. Therefore, solutions to this problem should <mark>be aimed at</mark> raising awareness of the problem and the ease of recycling, or giving people fewer opportunities to damage the environment.

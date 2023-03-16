@@ -5,13 +5,15 @@ summary: The government should spend money in promoting sport and art in school,
 date: 2023-01-31
 slug: promoting-sports-and-art-sample
 cover:
-    image: https://images.unsplash.com/photo-1547347298-4074fc3086f0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDE4fHxzcG9ydHxlbnwwfHx8fDE2NzUxNDU4MjI&ixlib=rb-4.0.3&q=80&w=2000
+    image: feature.jpeg
 categories:
     - english
     - writing
     - sample
 ---
-
+{{< lead >}}
+The government should spend money in promoting sport and art in school, rather than sponsoring professional sports and art events in communities. To what extent do you agree or disagree? (Government)
+{{< /lead >}}
 The government budget and how to best utilize it has always been a <mark>contentious issue</mark> - because it is of a limited nature, it is crucial that we spend the budget as effectively as possible. Hence, when it comes to promoting sports and art, there are two prevalent school of thoughts: promoting them in school, and promoting them in communities. Yet, I do not believe that we should have to choose.
 
 Schools are great places to foster sports and art, due to their <mark>inherent</mark> design as places of education. Promoting these extra-curriculum activities within an <mark>educational setting</mark> allows society to <mark>cultivate</mark> talents from a young age. What's more, it <mark>enriches</mark> the lives of students, who would be given the opportunity to follow their interests and passions, and improve upon them. Indeed, one would <mark>be hard pressed to</mark> find many flaws or downside to this approach. Everyone wins here - from students who are given the chance to develop themselves and to society in general, as we can better find and nurture talents.

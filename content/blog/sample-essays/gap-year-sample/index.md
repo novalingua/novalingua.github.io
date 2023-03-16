@@ -10,7 +10,9 @@ categories:
     - writing
     - sample
 ---
-
+{{< lead >}}
+In some countries many young people choose to work or travel for a year between finishing high school and starting university studies. Discuss the advantages and disadvantages. (Social)
+{{< /lead >}}
 Many people, especially those in Western countries, opt into gap years to travel or get some real-world experiences after they have finished secondary education. This phenomenon has both advantages and disadvantages.
 
 A gap year can be an excellent way for <mark>adolescents</mark> to prepare for adulthood. They get to take a break from studying and their academic obligations and have time to discover their passions and interests. For instance, students who have plans to get jobs in certain fields can try out their chosen profession through <mark>entry-level jobs</mark> or internships. Even if it is <mark>in a limited capacity</mark>, they usually <mark>accrue</mark> a good amount of experience and as such can more easily make informed decisions about their choice of occupation. Soon-to-be <mark>undergraduates</mark> that lack the desire to work may instead spend their time travelling. On these journeys, they would be able to gain valuable <mark>soft skills</mark> and life experiences, <mark>immerse themselves in</mark> foreign cultures, or perhaps even make lifelong connections with people and places. In any case, gap years are opportunities for people to acquire invaluable experiences that they otherwise would not have been able to obtain. Nevertheless, spending a year <mark>absent from</mark> school may not be a good choice for a multitude of reasons.

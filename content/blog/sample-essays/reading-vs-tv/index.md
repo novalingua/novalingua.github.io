@@ -5,13 +5,15 @@ description: Some people think reading stories in books is better than watching 
 date: 2023-01-30
 slug: books-vs-tv-sample
 cover:
-    image: https://images.unsplash.com/photo-1567861911437-538298e4232c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDIyfHx0ZWxldmlzaW9ufGVufDB8fHx8MTY3NTA1NzM0Ng&ixlib=rb-4.0.3&q=80&w=2000
+    image: feature.jpeg
 categories:
     - english
     - writing
     - sample
 ---
-
+{{< lead >}}
+Some people think reading stories in books is better than watching TV or playing computer games for children. To what extent do you agree or disagree? (Education)
+{{< /lead >}}
 Since TV and computer games first became widely available to the public in the 20th century, people have claimed that playing computer games is <mark>detrimental</mark> to children, and that they should preferably read books instead. Be that as it may, as television and computer games develop and become more and more widespread, plenty of research has been done on the subject and they seem to suggest that watching TV and playing computer games may have at least some benefits.
 
 Opponents of digital entertainment insist that it ruins childhoods and that books are more beneficial to young minds. Indeed, when consumed <mark>without moderation</mark>, computers and TVs can be addictive and thus prevent children from doing other beneficial activities - such as playing sports, studying or socializing - all of which are fundamental in shaping a child's development. Books, on the other hand, are far less addictive while being potentially <mark>every bit as</mark> entertaining <mark>as</mark> their digital alternatives. Nonetheless, these possible negative outcomes is only <mark>tangentially related to</mark> digital media itself; rather, they point to deeper problems such as the lack of self-control or <mark>inattentive</mark> caretakers. In other words, the undesirable impact of digital entertainment like television and computer games comes from excessive consumption, not from the medium. Thus, it is perhaps more practical to look past these <mark>purported</mark> downsides of digital media and determine if there are benefits to be had when compared to traditional book reading.

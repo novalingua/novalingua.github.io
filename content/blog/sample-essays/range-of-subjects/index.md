@@ -11,7 +11,9 @@ categories:
     - writing
     - sample
 ---
-
+{{< lead >}}
+In some countries, secondary schools aim to provide a general education across a range of subjects. In others, children focus on a narrow range of subjects related to a particular career. Which do you think is appropriate in today’s world? (Education)
+{{< /lead >}}
 There is an <mark>ongoing debate</mark> about the number of subjects students in secondary schools should learn - some suggest a wide range of curriculum, whereas others believe firmly that the subjects taught should be directly related to students' future careers. Frankly, I think a broader range of subjects would be more beneficial for students.
 
 At their age, many students are not informed enough to make decisions about their future career. This is <mark>exemplified by</mark> the fact that a large number of <mark>undergraduates</mark> change their majors every year. Although society may view them as <mark>fully-functioning adults</mark> capable of making major life decisions, psychologically speaking, the majority of 18-year-olds are still going through the process of self-discovery and thus are <mark>ill-equipped</mark> to choose the perfect career path that would maximize their potential. As a result, many would argue that restricting students to a narrow range of subjects would not necessarily benefit their adult lives, and could even be <mark>counter-productive</mark> in some cases.

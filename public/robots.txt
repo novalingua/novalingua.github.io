@@ -1,3 +1,3 @@
 User-agent: *
-Disallow:
-Sitemap: https://hongphuctran77.github.io/sitemap.xml
+Allow: /
+Sitemap: https://neolingo.net/sitemap.xml

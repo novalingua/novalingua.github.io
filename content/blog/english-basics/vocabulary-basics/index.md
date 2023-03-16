@@ -9,7 +9,11 @@ cover:
 categories:
     - english
     - vocabulary
+    - basics
 ---
+{{< lead >}}
+Làm cách nào để học từ vựng một cách hiệu quả nhất?
+{{< /lead >}}
 
 ## Cần học bao nhiêu từ?
 
@@ -47,7 +51,7 @@ Người học có thể tự mua flashcard về rồi viết tay, sau đó tự
 3. Có thể học ở mọi lúc mọi nơi (chỉ cần điện thoại/máy tính)
 4. Ứng dụng Obsidian còn có rất nhiều tính năng khác ngoài flashcard
 
-Để sử dụng Obsidian, các bạn có thể tải ứng dụng [tại đây](https://obsidian.md/download), sau đó đọc [các hướng dẫn về Obsidian](https://neolingo.net/tag/obsidian/) trên blog này.
+Để sử dụng Obsidian, các bạn có thể tải ứng dụng [tại đây](https://obsidian.md/download), sau đó đọc [các hướng dẫn về Obsidian](https://neolingo.net/categories/obsidian/) trên blog này.
 
 ## Morphemes - Từ tố
 

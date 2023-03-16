@@ -11,7 +11,9 @@ categories:
     - writing
     - sample
 ---
-
+{{< lead >}}
+Many countries believe that international tourism has harmful effects. Why do they think so? What can be done to change their views?
+{{< /lead >}}
 Many view tourism as a <mark>double-edged sword</mark>. There are both advantages and disadvantages to allowing or encouraging international visitors to your country, and many nations hold the opinion that it does more harm than good.
 
 The main reason for this line of thinking is the <mark>stark contrast</mark> between <mark>conservatism</mark> and <mark>liberalism</mark> among countries. Ideologies around the world differ greatly, especially between Western and Eastern or Middle Eastern countries - Western countries tend to be more <mark>liberal and democratic</mark>, whereas countries such as those in the Arab world are mostly <mark>right-leaning</mark>. As such, many feel that their way of life is threatened by the introduction of other cultures. Consequently, conservative countries tend to favor international tourism less.

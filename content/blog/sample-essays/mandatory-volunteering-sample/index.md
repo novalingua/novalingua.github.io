@@ -10,7 +10,9 @@ categories:
     - writing
     - sample
 ---
-
+{{< lead >}}
+Some people believe that teenagers should be required to do unpaid community work in their free time. This can benefit teenagers and the community as well. To what extent do you agree or disagree?
+{{< /lead >}}
 Many people argue that there should be <mark>compulsory</mark> volunteering for adolescents. Even though community work would benefit the volunteers and society at large, forcing people to work against their will is not a <mark>recipe for success</mark>.
 
 It is undeniable that volunteering or charity work is beneficial to both the helper and the community. <mark>To wit</mark>, all over the world, there have been many volunteer programs designed to help the <mark>less fortunate</mark> that are aimed specifically at teenagers. The vast majority of these programs are <mark>resounding successes</mark>, managing to <mark>simultaneously</mark> better the community and provide opportunities for young people to have <mark>meaningful, rewarding experiences</mark>. Despite these successes, there have not been any <mark>legally mandated</mark> programs, and <mark>for good reason</mark>.

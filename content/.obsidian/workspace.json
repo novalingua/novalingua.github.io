@@ -11,8 +11,24 @@
             "id": "b1ad9e6acb1b5e9d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "_index.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "10ce4c0453d15131",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "search.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "_index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "_index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +136,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "_index.md"
+              }
             }
           }
         ]
@@ -140,6 +160,10 @@
   },
   "active": "b1ad9e6acb1b5e9d",
   "lastOpenFiles": [
+    "blog/english-basics/where-to-start/index.md",
+    "test.md",
+    "Unit 4.md",
+    "Untitled.md",
     "post/sample-essays/tourism-harmful-effects/index.md",
     "post/sample-essays/recycling-waste/index.md",
     "post/sample-essays/reading-vs-tv/index.md",

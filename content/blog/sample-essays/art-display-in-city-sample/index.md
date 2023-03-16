@@ -4,13 +4,15 @@ summary: Towns and cities are attractive places. Some people suggest that the go
 description: Towns and cities are attractive places. Some people suggest that the government should spend money putting in more works of art like paintings and statues to make them better to live in. To what extent do you agree or disagree?
 date: 2023-02-12T12:37:30+07:00
 cover:
-    image: https://images.unsplash.com/photo-1617010487246-8a392bf37b9b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1074&q=80
+    image: feature.webp
 categories:
     - english
     - writing
     - sample
 ---
-
+{{< lead >}}
+Towns and cities are attractive places. Some people suggest that the government should spend money putting in more works of art like paintings and statues to make them better to live in. To what extent do you agree or disagree?
+{{< /lead >}}
 As more and more people flock to urban areas, there is a sentiment that the authorities should pay to install more works of art within towns and cities to improve their citizens' quality of life. This is a sentiment that is more or less in line with my point of view.
 
 Living near or around art has been demonstrated to bring considerable benefits to urban residents. Multiple studies have been conducted on the correlation between exposure to the arts, such as through paintings, sculptures, or music, and the human psyche. Evidently, researchers have proven that living among artistic demonstrations measurably increases people's well-being and improves their mood. What's more, the findings seem to suggest an innate capacity within all of us to appreciate and enjoy art, that there is an area within our very brains that is specifically wired to connect and resonate with paintings, sculptures and the likes. In light of these revelations, it is irrefutable that the addition of artworks to public areas brings substantial benefits. Nevertheless, there is one potential downside that governments should keep in mind before actually implementing new policies.
